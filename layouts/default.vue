@@ -5,6 +5,12 @@
         <nuxt />
       </v-container>
     </v-content>
+    <v-footer
+    dark
+    height="auto"
+  >
+        <strong>Сделал Алпатов Антон. гр. З-8В51</strong>
+  </v-footer>
   </v-app>
 </template>
 
